@@ -1,8 +1,7 @@
-MULTIPLIER ASSIGNMENT
+                                                                                             📌 MULTIPLIER ASSIGNMENT
 
 
 TO RUN THE APP ON YOUR LOCAL MACHINE:-
-
 
 1️⃣ Clone the Repository
 
